@@ -2,24 +2,22 @@ body{
     padding: 0px;
     margin: 0px;
     font-family: sans-serif;
-    /* background-color: #dfebf3; */
-    background-image: url(img/Olumo-Rock.jpg);
+    background-image: url(img/kajuru11.jpg);
+    background-color: #dfebf3;
     background-size: cover;}
 
 .container{
-    width: 80%;
-    margin: auto;
+    width: 100%;
     overflow: hidden;
+    background-color: #fff;
+
+
 }
 
-.head{
-    background-color: fff;
-    padding: 18px;
-}
 
 nav ul{
     margin: 0px;
-    padding: 0px;
+    padding: 18px;
 }
 
 nav li{
@@ -36,17 +34,19 @@ nav li a{
 
 }
 
-head h1{
+h1{
     margin: 0px;
-}
-
-.head{
+    background-color: fff;
+    padding: 18px;
     float: left;
 }
+
+
 
 nav{
     float: right;
     margin-top: 5px;
+    
 }
 
 section h2{
